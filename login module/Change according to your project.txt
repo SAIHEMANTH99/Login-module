@@ -1,0 +1,10 @@
+Index.html
+1. Change the Title at line 6.
+Login.html
+1. Change the title at line 5.
+2. Change the name at line 26 according to the project.
+Registration.html
+1. Change at line 24 according to project.
+Application.properties
+1. Change the server.port number according to your machine.
+2. Change the database url,username and password.
